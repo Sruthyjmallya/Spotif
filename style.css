@@ -32,3 +32,8 @@ ul.tick {
 li.inline{
     display: inline;
 }
+
+div.orange{
+    background-color: rgb(252, 194, 86);
+}
+
